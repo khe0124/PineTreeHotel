@@ -4,7 +4,7 @@
 ## 호텔예약 웹사이트
 호텔예약 웹사이트입니다.
 
-
+<br>
 <hr>
 ## 목차 <br>
 1.Background
@@ -20,7 +20,7 @@
 11.Development Structure
 12.Project Timeline
 13.어쩌고저쩌고
-
+<br>
 
 <hr>
 ## 1. Background
@@ -35,3 +35,4 @@
 ## 11. Development Structure
 ## 12. Project Timeline
 ## 13. 어쩌고저쩌고
+ <br>
