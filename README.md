@@ -5,7 +5,6 @@
 호텔예약 웹사이트입니다.
 
 <br>
-<hr>
 ## 목차
 01. Background
 02. Description
