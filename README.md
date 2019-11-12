@@ -18,9 +18,7 @@
 11. Development Structure
 12. Project Timeline
 13. 어쩌고저쩌고
-<br>
 
-<hr>
 ## 01. Background
 ## 02. Description
 ## 03. Scope
