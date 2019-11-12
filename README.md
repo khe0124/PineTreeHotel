@@ -6,8 +6,8 @@
 
 <br>
 <hr>
-## 목차 <br>
-1.Background
+## 목차
+- 1.Background
 2.Description
 3.Scope
 4.References
