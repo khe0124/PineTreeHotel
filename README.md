@@ -5,7 +5,6 @@
 호텔예약 웹사이트입니다.
 
 ## 목차
-<hr>
 1. Background
 2. Description
 3. Scope
