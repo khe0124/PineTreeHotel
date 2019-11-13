@@ -36,7 +36,7 @@
 ## 02. Description
 ## 03. Scope
 ## 04. Settings
-이미지파일
+프로젝트 
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
 Settings
 - OS: Windows7, Windows10
