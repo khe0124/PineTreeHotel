@@ -17,18 +17,28 @@
 
 ## 목차
 - <a href="#user-content-01-background">1. Background</a>
-2. Description
-3. Scope
-4. References
-5. R & R
-6. Database Specification
-7. ERD - Diagrams
-8. Wireframes
-9. Content Structure
-10. Settings
-11. Development Structure
-12. Project Timeline
-13. 어쩌고저쩌고
+- <a href="#user-content-02-description">2. Description</a>
+- <a href="#user-content-03-scope">3. Scope</a>
+- <a href="#user-content-04-references">4. References</a>
+- <a href="#user-content-05-r-&-r">5. R & R</a>
+- <a href="#user-content-06-database-specification">6. Database Specification</a>
+- <a href="#user-content-07-erd-diagrams">7. ERD - Diagrams</a>
+- <a href="#user-content-08-wireframes">8. Wireframes</a>
+- <a href="#user-content-09-content-structure">9. Content Structure</a>
+- <a href="#user-content-10-settings">10. Settings</a>
+- <a href="#user-content-11-development-structure">11. Development Structure</a>
+- <a href="#user-content-12-background">12. Project Timeline</a>
+- <a href="#user-content-13-어쩌고저쩌고">13. 어쩌고저쩌고</a>
+
+
+
+
+
+
+
+
+
+
 
 ## 01. Background
 ## 02. Description
