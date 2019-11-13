@@ -36,6 +36,7 @@
 ## 02. Description
 ## 03. Scope
 ## 04. Settings
+이미지파일
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
 Settings
 - OS: Windows7, Windows10
@@ -43,6 +44,7 @@ Settings
 ## 05. R & R
 ## 06. Database Specification
 ## 07. ERD - Diagrams
+이미지파일
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true">
 ERD-Diagrams
 ## 08. Wireframes
