@@ -74,8 +74,8 @@ ERD-Diagrams
 ## 08. Wireframes
 
 ## 09. Content Structure
----|:---|:---|:---|:---
-1DEPTH | 2DEPTH | 3DEPTH
+-----|:-----|:-----|:-----|:-----
+1DEPTH | 2DEPTH | 3DEPTH | | |
 `Language` | Java, HTML, CSS, Javascript, JSP |
 `Library` | jQuery 3.2.1, Bootstrap4,  |
 `API` | KaKao Map API |
