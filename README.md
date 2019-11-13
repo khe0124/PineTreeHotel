@@ -67,8 +67,8 @@ pn_notice
 pn_promotions
 ```
 ## 07. ERD - Diagrams
-이미지파일
-<img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true">
+설계된 테이블을 바탕으로 뽑은 ERD- Diagram
+![Alt text](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true)
 ERD-Diagrams
 ## 08. Wireframes
 ## 09. Content Structure
