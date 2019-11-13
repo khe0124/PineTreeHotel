@@ -1,5 +1,5 @@
 # Spring Web Project
-<img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/main.JPG?raw=true">
+![Spring Web Project](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/main.JPG?raw=true)
 솔데스크 학원 졸업프로젝트
 
 ## 호텔예약 웹사이트
@@ -36,7 +36,8 @@
 ## 03. Scope
 ## 04. Settings
 프로젝트 작업환경 설정
-<img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
+![Settings](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true)
+
 ### Settings
 항목 | 내용
 ---|:---:
@@ -68,7 +69,7 @@ pn_promotions
 ```
 ## 07. ERD - Diagrams
 설계된 테이블을 바탕으로 뽑은 ERD- Diagram
-![Alt text](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true)
+![ERD- Diagram](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true)
 ERD-Diagrams
 ## 08. Wireframes
 ## 09. Content Structure
