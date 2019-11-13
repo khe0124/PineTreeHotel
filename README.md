@@ -26,7 +26,6 @@
 - <a href="#07-erd---diagrams">7. ERD - Diagrams</a>
 - <a href="#08-wireframes">8. Wireframes</a>
 - <a href="#09-content-structure">9. Content Structure</a>
-- <a href="#09-settings">9. Settings</a>
 - <a href="#10-development-structure">10. Development Structure</a>
 - <a href="#11-project-timeline">11. Project Timeline</a>
 
@@ -36,11 +35,16 @@
 ## 02. Description
 ## 03. Scope
 ## 04. Settings
-프로젝트 
+프로젝트 작업환경 설정
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
-Settings
+### Settings
 - OS: Windows7, Windows10
-- 
+- Language: Java, Html, CSS, Javascript, JSP
+- Library: JQuery3.2.1, Owl Carousel, Daterange, Scrollax, JQuery Cookie
+- API: KaKao Map Api
+- Framework: Spring, Bootstrap4
+- Tools: Spring STS3, Eclipse Luna, HeidiSQL 10.2.0, 
+
 ## 05. R & R
 ## 06. Database Specification
 ## 07. ERD - Diagrams
