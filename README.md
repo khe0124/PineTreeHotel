@@ -50,6 +50,22 @@
 
 ## 05. R & R
 ## 06. Database Specification
+### 1) 총 테이블수
+```sql
+pn_account
+pn_coupon
+pn_ac_coupon
+pn_point
+pn_room
+pn_cart
+pn_order
+pn_orderlist
+pn_review
+pn_email
+pn_inquiry
+pn_notice
+pn_promotions
+```
 ## 07. ERD - Diagrams
 이미지파일
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true">
