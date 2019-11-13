@@ -16,29 +16,19 @@
 
 
 ## 목차
-- <a href="#user-content-01-background">1. Background</a>
-- <a href="#user-content-02-description">2. Description</a>
-- <a href="#user-content-03-scope">3. Scope</a>
-- <a href="#user-content-04-references">4. References</a>
-- <a href="#user-content-05-r-&-r">5. R & R</a>
-- <a href="#user-content-06-database-specification">6. Database Specification</a>
-- <a href="#user-content-07-erd-diagrams">7. ERD - Diagrams</a>
-- <a href="#user-content-08-wireframes">8. Wireframes</a>
-- <a href="#user-content-09-content-structure">9. Content Structure</a>
-- <a href="#user-content-10-settings">10. Settings</a>
-- <a href="#user-content-11-development-structure">11. Development Structure</a>
-- <a href="#user-content-12-background">12. Project Timeline</a>
-- <a href="#user-content-13-어쩌고저쩌고">13. 어쩌고저쩌고</a>
+- <a href="#01-background">1. Background</a>
+- <a href="#02-description">2. Description</a>
+- <a href="#03-scope">3. Scope</a>
+- <a href="#04-r--r">4. R & R</a>
+- <a href="#05-database-specification">5. Database Specification</a>
+- <a href="#06-erd---diagrams">6. ERD - Diagrams</a>
+- <a href="#07-wireframes">7. Wireframes</a>
+- <a href="#08-content-structure">8. Content Structure</a>
+- <a href="#09-settings">9. Settings</a>
+- <a href="#10-development-structure">10. Development Structure</a>
+- <a href="#11-project-timeline">11. Project Timeline</a>
 
-
-
-
-
-
-
-
-
-
+<hr>
 
 ## 01. Background
 ## 02. Description
