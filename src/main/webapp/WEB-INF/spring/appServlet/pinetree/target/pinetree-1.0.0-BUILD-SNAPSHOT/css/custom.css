@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/*************** Nav Dropdown ***************/
+.dropdown-menu {
+	background: rgba(255, 255, 255, 0.65);
+	padding: 10px;
+}
+
+/*************** Loin - nav ***************/
+.login-nav {
+	display: flex;	
+	list-style: none;
+}
+.login-nav li {
+	padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*************** Login ***************/
+.pagetitle {
+	text-align: center;
+}
+
+.login-form, .join-form {
+	margin: 0 auto;
+}
+
+.join-form {
+	width: 100%;
+	padding: 0 50px;
+}
+
+.formDiv {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.formBtn {
+	width: 100%;
+}
+
+/*************** Review ***************/
+.reviewList{
+	width: 100%;
+}
+.review_cont{
+	height: 80px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
