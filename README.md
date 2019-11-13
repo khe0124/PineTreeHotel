@@ -41,13 +41,13 @@
 ### Settings
 항목 | 내용
 ---|:---
-`OS` | Windows7, Windows10 | 
-`Language` | Java, HTML, CSS, Javascript, JSP |
-`Library` | jQuery 3.2.1, Bootstrap4,  |
-`API` | KaKao Map API |
-`Framework`| Spring, Bootstrap4 |
-`Tools`| Spring STS3, Eclipse Luna, HeidiSQL 10.2.0 |
-`ETC`| slack, Figma, KaKao OvenApp |
+**OS** | Windows7, Windows10 | 
+**Language** | Java, HTML, CSS, Javascript, JSP |
+**Library** | jQuery 3.2.1, Bootstrap4,  |
+**API** | KaKao Map API |
+**Framework** | Spring, Bootstrap4 |
+**Tools** | Spring STS3, Eclipse Luna, HeidiSQL 10.2.0 |
+**ETC** | slack, Figma, KaKao OvenApp |
 
 ## 05. R & R
 ## 06. Database Specification
@@ -74,14 +74,6 @@ ERD-Diagrams
 ## 08. Wireframes
 
 ## 09. Content Structure
------|:-----|:-----|:-----|:-----
-1DEPTH | 2DEPTH | 3DEPTH | | |
-`Language` | Java, HTML, CSS, Javascript, JSP |
-`Library` | jQuery 3.2.1, Bootstrap4,  |
-`API` | KaKao Map API |
-`Framework`| Spring, Bootstrap4 |
-`Tools`| Spring STS3, Eclipse Luna, HeidiSQL 10.2.0 |
-`ETC`| slack, Figma, KaKao OvenApp |
 ## 10. Development Structure
 ## 11. Project Timeline
 ## 12. 어쩌고저쩌고
