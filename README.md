@@ -38,12 +38,13 @@
 프로젝트 작업환경 설정
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
 ### Settings
-- OS: Windows7, Windows10
-- Language: Java, Html, CSS, Javascript, JSP
-- Library: JQuery3.2.1, Owl Carousel, Daterange, Scrollax, JQuery Cookie
-- API: KaKao Map Api
-- Framework: Spring, Bootstrap4
-- Tools: Spring STS3, Eclipse Luna, HeidiSQL 10.2.0, 
+- `OS`: Windows7, Windows10
+- `Language`: Java, Html, CSS, Javascript, JSP
+- `Library`: JQuery3.2.1, Owl Carousel, Daterange, Scrollax, JQuery Cookie
+- `API`: KaKao Map Api
+- `Framework`: Spring, Bootstrap4
+- `Tools`: Spring STS3, Eclipse Luna, HeidiSQL 10.2.0
+- `ETC`: slack, Figma, KaKao OvenApp
 
 ## 05. R & R
 ## 06. Database Specification
