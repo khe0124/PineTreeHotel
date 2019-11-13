@@ -38,6 +38,7 @@
 프로젝트 작업환경 설정
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
 ### Settings
+---|---:
 `OS`| Windows7, Windows10
 `Language`| Java, Html, CSS, Javascript, JSP
 `Library`| JQuery3.2.1, Owl Carousel, Daterange, Scrollax, JQuery Cookie
