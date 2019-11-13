@@ -39,7 +39,7 @@
 <img src="https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/settings.JPG?raw=true">
 ### Settings
 항목 | 내용
----|:---:|---:
+---|:---:
 `OS` | Windows7, Windows10 | 
 `Language` | Java, HTML, CSS, Javascript, JSP |
 `Library` | jQuery 3.2.1, Bootstrap4,  |
