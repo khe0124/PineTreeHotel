@@ -10,6 +10,10 @@
 - 위치 및 정보 안내
 - 공지사항, 리뷰, email 문의 CRUD
 
+## 템플릿
+- Themewagon (Deluxe Theme)
+- https://themewagon.com/themes/free-bootstrap-4-html5-hotel-resort-website-template-deluxe/
+
 
 ## 목차
 1. Background
