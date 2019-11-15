@@ -6,10 +6,10 @@ import org.junit.Test;
 
 public class DBOpen {
 	public static Connection getConnetion() throws Exception{
-		//static -> Å¬·¡½º¸íÀ¸·Î Á÷Á¢ Á¢±Ù °¡´ÉÇÏ´Ù.
+		//static -> í´ë˜ìŠ¤ëª…ìœ¼ë¡œ ì§ì ‘ ì ‘ê·¼ ê°€ëŠ¥í•˜ë‹¤.
 
 		Class.forName("org.mariadb.jdbc.Driver");
-		Connection con = DriverManager.getConnection ("jdbc:mariadb://localhost/pinetree?useUnicode=true&characterEncoding=euck","root","1234");
+		Connection con = DriverManager.getConnection ("jdbc:mariadb://localhost/pinetree?useUnicode=true&characterEncoding=euck","ì•„ì´ë””","ë¹„ë°€ë²ˆí˜¸");
 		return con;		
 	}
 }
