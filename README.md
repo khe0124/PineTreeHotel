@@ -73,8 +73,9 @@ pn_promotions
 ERD-Diagrams
 ## 08. Wireframes
 
+https://ovenapp.io/view/ojHF1l12OaonDLJ19aQ0clv14Jtt2exD/OrGd1
 ## 09. Content Structure
 ## 10. Development Structure
 ## 11. Project Timeline
-## 12. 어쩌고저쩌고
+
  <br>
