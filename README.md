@@ -72,7 +72,7 @@ pn_promotions
 ![ERD- Diagram](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/erd.JPG?raw=true)
 ERD-Diagrams
 ## 08. Wireframes
-
+![Ewireframes-main](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/pt_main.PNG?raw=true)
 https://ovenapp.io/view/ojHF1l12OaonDLJ19aQ0clv14Jtt2exD/OrGd1
 ## 09. Content Structure
 ## 10. Development Structure
