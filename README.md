@@ -96,7 +96,7 @@ ERD-Diagrams
 https://ovenapp.io/view/ojHF1l12OaonDLJ19aQ0clv14Jtt2exD/OrGd1
 
 ## 08. Content Structure
-![sitemap](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/	pt_sitemap.jpeg?raw=true)
+![sitemap](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/pt_sitemap.jpeg?raw=true)
 ## 09. Development Structure
 ![structure](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/pt_structure1.jpeg?raw=true)
 ![structure2](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/pt_structure2.jpeg?raw=true)
