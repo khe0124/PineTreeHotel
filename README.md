@@ -1,6 +1,7 @@
 # Spring Web Project
 ![Spring Web Project](https://github.com/khe0124/PineTree_Hotel/blob/master/ppt/main.JPG?raw=true)
 솔데스크 학원 졸업프로젝트
+* 호스팅 연장
 
 ## 호텔예약 웹사이트
 가상의 중소호텔예약 웹사이트입니다.
